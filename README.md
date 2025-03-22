@@ -2,7 +2,7 @@
 
 ## 📌 About the project
 
-This is a sinple backend to be used in nearby-app (https://github.com/cainan/nerby-app)
+This is a simple backend to be used in [nearby-app](https://github.com/cainan/nerby-app)
 
 
 ## 🛠 Installation and Configuration
